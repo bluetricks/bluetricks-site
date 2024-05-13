@@ -8,6 +8,11 @@
 
 ## 🪟 Windows
 
+* [Identify](windows/identify.md)
+* [Protect](windows/protect.md)
+* [Detect](windows/detect.md)
+* [Respond](windows/respond.md)
+* [Recover](windows/recover.md)
 * [Tools](windows/tools.md)
 
 ## 🐧 Linux
@@ -45,3 +50,7 @@
 ## 🛠️ Tools
 
 * [Must haves](tools/must-haves.md)
+
+## 📄 Reporting
+
+* [Tools](reporting/tools.md)
