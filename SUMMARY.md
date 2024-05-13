@@ -8,39 +8,39 @@
 
 ## 🪟 Windows
 
-* [Page 2](windows/page-2.md)
+* [Tools](windows/tools.md)
 
 ## 🐧 Linux
 
-* [Page 1](linux/page-1.md)
+* [Tools](linux/tools.md)
 
 ## 🐡 \*NIX
 
-* [Page 6](nix/page-6.md)
+* [Tools](nix/tools.md)
 
 ## 🍎 MACOS
 
-* [Page 3](macos/page-3.md)
+* [Tools](macos/tools.md)
 
 ## 📱 Mobile
 
-* [Page 4](mobile/page-4.md)
+* [Tools](mobile/tools.md)
 
 ## 🛜 Networking
 
-* [Page 5](networking/page-5.md)
+* [Tools](networking/tools.md)
 
 ## 🪵 SIEM
 
-* [Page 7](siem/page-7.md)
+* [Tools](siem/tools.md)
 
 ## 👮‍♀️ EDR
 
-* [Page 8](edr/page-8.md)
+* [Tools](edr/tools.md)
 
 ## 🕵️ OSINT
 
-* [Page 9](osint/page-9.md)
+* [Tools](osint/tools.md)
 
 ## 🛠️ Tools
 
