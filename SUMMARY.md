@@ -41,3 +41,7 @@
 ## 🕵️ OSINT
 
 * [Page 9](osint/page-9.md)
+
+## 🛠️ Tools
+
+* [Must haves](tools/must-haves.md)
