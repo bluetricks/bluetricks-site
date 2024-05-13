@@ -9,7 +9,12 @@
 ## 🪟 Windows
 
 * [Identify](windows/identify.md)
-* [Protect](windows/protect.md)
+* [Protect](windows/protect/README.md)
+  * [Active Directory](windows/protect/active-directory/README.md)
+    * [Active Directory Hardening](windows/protect/active-directory/active-directory-hardening.md)
+    * [Active Directory best practices](windows/protect/active-directory/active-directory-best-practices.md)
+  * [Workstations](windows/protect/workstations/README.md)
+    * [Workstation Hardening](windows/protect/workstations/workstation-hardening.md)
 * [Detect](windows/detect.md)
 * [Respond](windows/respond.md)
 * [Recover](windows/recover.md)
