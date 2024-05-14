@@ -16,7 +16,12 @@
   * [Workstations](windows/protect/workstations/README.md)
     * [Workstation Hardening](windows/protect/workstations/workstation-hardening.md)
 * [Detect](windows/detect.md)
-* [Respond](windows/respond.md)
+* [Respond](windows/respond/README.md)
+  * [Disk forensics](windows/respond/disk-forensics/README.md)
+    * [NTFS](windows/respond/disk-forensics/ntfs/README.md)
+      * [MFT Structure](windows/respond/disk-forensics/ntfs/mft-structure.md)
+  * [Memory Forensics](windows/respond/memory-forensics.md)
+  * [Live Response](windows/respond/live-response.md)
 * [Recover](windows/recover.md)
 * [Tools](windows/tools.md)
 
